@@ -39,7 +39,7 @@ LICENÇA
 Este projeto está licenciado sob a licença MIT. 
 Sinta-se à vontade para modificar e usar este código para seus próprios fins. Contribuições e sugestões são sempre bem-vindas!
 
-------------------------------------------------------------------------------------- ONLY ENGLISH---------------------------------------
+---------------------------------------------------------- ONLY ENGLISH---------------------------------------
 MULTIPLES
 
 The idea of this project is to check if the entered number is a multiple of 5 and 7 or just one of these numbers. if it is a multiple of both, it will be printed on the "fizzbuzz" screen. If it is only 5, it will print "fizz", if it is 7, it will print "buzz" and if it is not a multiple of any of them, it will print "miss"
