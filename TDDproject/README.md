@@ -14,7 +14,7 @@ COMO EXECUTAR:
 
 Para usar este projeto, siga as etapas abaixo:
 
-1- Clone o repositório em sua máquina local usando o seguinte comando: git clone 
+1- Clone o repositório em sua máquina local usando o seguinte comando: git clone https://github.com/Levi-cell/TDDproject/tree/main
 2- Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
 3 -Execute o arquivo main.py usando o interpretador Python: python main.py
 4 -Insira um número natural quando solicitado para verificar se é múltiplo de 5, 7 ou ambos. O programa exibirá a mensagem correspondente.
